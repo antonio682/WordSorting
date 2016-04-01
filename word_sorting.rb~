@@ -1,0 +1,3 @@
+puts "Introduce a sentence please!"
+sentence = gets.chomp
+
